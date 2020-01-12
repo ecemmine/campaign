@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">campaign</string>
+    <string name="default_title">Hot Deal</string>
+    <string name="time_text">%1$s days, %2$s hours, %3$s minutes, %4$s seconds remaining</string>
+    <string name="campaign_end">Campaign End.</string>
+</resources>
